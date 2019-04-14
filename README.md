@@ -3,6 +3,7 @@
 This library is sending and receiving data to Bitshares Core API.
 
 Documents about bitshares RPC API: http://docs.bitshares.org/api/rpc.html
+
 Database API (accounts and some other things): http://docs.bitshares.org/api/database.html
 
 Library Features:
