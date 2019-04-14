@@ -2,11 +2,14 @@
 
 This library is sending and receiving data to Bitshares Core API.
 
-http://docs.bitshares.org/api/rpc.html
+Documents about bitshares RPC API: http://docs.bitshares.org/api/rpc.html
+Database API (accounts and some other things): http://docs.bitshares.org/api/database.html
 
-Features:
+Library Features:
 - Manually create JSON data via classes
 - Send JSON string to API endpoint
 - Receive JSON as string and convert it to Csharp classes
+
+Other features will implement in future. 
 
 Have fun.

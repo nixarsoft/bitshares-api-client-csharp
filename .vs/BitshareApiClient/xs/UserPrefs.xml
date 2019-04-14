@@ -2,16 +2,18 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="README.md">
     <Files>
       <File FileName="BitshareApiClient/Program.cs" Line="15" Column="4" />
-      <File FileName="BitshareApiClient/BitsharesApiClient.cs" Line="38" Column="6" />
-      <File FileName="BitshareApiClient/BitsharesApiModel/GetAccountBalancesResult.cs" Line="8" Column="46" />
-      <File FileName="BitshareApiClient/BitsharesApiModel/GetAccountsResult.cs" Line="9" Column="1" />
-      <File FileName="README.md" Line="5" Column="1" />
+      <File FileName="BitshareApiClient/BitsharesApiClient.cs" Line="55" Column="49" />
+      <File FileName="README.md" Line="6" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="BitshareApiClient" expanded="True" selected="True">
+          <Node name="BitshareApiClient" expanded="True">
             <Node name="Solution Items" expanded="True" />
+            <Node name="BitshareApiClient" expanded="True">
+              <Node name="BitsharesApiModel" expanded="True" />
+              <Node name="BitsharesApiClient.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
