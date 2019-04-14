@@ -1,0 +1,6 @@
+/media/emir/emir240/Projects/MonoProjects/BitshareApiClient/BitshareApiClient/bin/Debug/BitshareApiClient.exe
+/media/emir/emir240/Projects/MonoProjects/BitshareApiClient/BitshareApiClient/bin/Debug/BitshareApiClient.pdb
+/media/emir/emir240/Projects/MonoProjects/BitshareApiClient/BitshareApiClient/obj/x86/Debug/BitshareApiClient.csprojAssemblyReference.cache
+/media/emir/emir240/Projects/MonoProjects/BitshareApiClient/BitshareApiClient/obj/x86/Debug/BitshareApiClient.csproj.CoreCompileInputs.cache
+/media/emir/emir240/Projects/MonoProjects/BitshareApiClient/BitshareApiClient/obj/x86/Debug/BitshareApiClient.exe
+/media/emir/emir240/Projects/MonoProjects/BitshareApiClient/BitshareApiClient/obj/x86/Debug/BitshareApiClient.pdb
