@@ -20,7 +20,7 @@ Please open issue for your questions.
 
 https://nixarsoft.com/
 
-If you want technical support please contact with us: support@nixarsoft.com
+If you want to buy technical support please contact with us: support@nixarsoft.com
 
 
 Have fun.
