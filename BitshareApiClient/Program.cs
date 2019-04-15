@@ -30,7 +30,11 @@ namespace BitshareApiClient {
 				Console.WriteLine();
 			}
 
-			//call directly methods
+			result = apiClient.request(new BitsharesRequest("get_accounts", new Object[] { new Object[] { "1.2.0", "1.2.1" } }));
+			Console.WriteLine(apiClient.Result);
+			Console.WriteLine();
+
+			//call with methods
 
 			// success example
 			resultObj = apiClient.getAccountBalancesResult("get_account_balances", new Object[] { "committee-account", new object[] { } });

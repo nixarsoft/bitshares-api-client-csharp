@@ -1,9 +1,11 @@
 ﻿<Properties StartupConfiguration="{741B301E-ECFC-4EF3-B669-0CFB2E012925}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="README.md">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BitshareApiClient/BitsharesApiModel/GetAccountBalancesResult.cs">
     <Files>
-      <File FileName="BitshareApiClient/Program.cs" Line="15" Column="4" />
-      <File FileName="BitshareApiClient/BitsharesApiClient.cs" Line="55" Column="49" />
-      <File FileName="README.md" Line="6" Column="1" />
+      <File FileName="BitshareApiClient/BitsharesApiClient.cs" Line="63" Column="7" />
+      <File FileName="BitshareApiClient/Program.cs" Line="40" Column="34" />
+      <File FileName="BitshareApiClient/BitsharesApiModel/BitsharesRequest.cs" Line="7" Column="27" />
+      <File FileName="BitshareApiClient/BitsharesApiModel/Result.cs" Line="3" Column="15" />
+      <File FileName="BitshareApiClient/BitsharesApiModel/GetAccountBalancesResult.cs" Line="5" Column="39" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,8 +13,9 @@
           <Node name="BitshareApiClient" expanded="True">
             <Node name="Solution Items" expanded="True" />
             <Node name="BitshareApiClient" expanded="True">
-              <Node name="BitsharesApiModel" expanded="True" />
-              <Node name="BitsharesApiClient.cs" selected="True" />
+              <Node name="BitsharesApiModel" expanded="True">
+                <Node name="GetAccountBalancesResult.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
